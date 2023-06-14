@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pickle_perfection/static/css/main.e18619f2.css",
+    "main.js": "/pickle_perfection/static/js/main.d4d2aeec.js",
+    "static/media/image1.png": "/pickle_perfection/static/media/image1.993f76a92fe82b403a50.png",
+    "static/media/image2.png": "/pickle_perfection/static/media/image2.6998914279cb192b89c7.png",
+    "static/media/image3.png": "/pickle_perfection/static/media/image3.76c01b14b4b9300e981b.png",
+    "static/media/fullWidthPic.jpg": "/pickle_perfection/static/media/fullWidthPic.dfecfe0be14bb87527ec.jpg",
+    "static/media/item3.png": "/pickle_perfection/static/media/item3.2709aa468f20fb839b26.png",
+    "static/media/item1.png": "/pickle_perfection/static/media/item1.5c23d45d590e5cc9bd0b.png",
+    "static/media/item2.png": "/pickle_perfection/static/media/item2.b012ac57f85895ca3053.png",
+    "index.html": "/pickle_perfection/index.html",
+    "main.e18619f2.css.map": "/pickle_perfection/static/css/main.e18619f2.css.map",
+    "main.d4d2aeec.js.map": "/pickle_perfection/static/js/main.d4d2aeec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e18619f2.css",
+    "static/js/main.d4d2aeec.js"
+  ]
+}
